@@ -6,7 +6,7 @@ This repository is for Scale17x conference and it contains deep learning starter
 
 1. Logistic Regression
 2. Multilayer Perceptron
-3. Convolutional Neural Network
+3. Convolutional Neural Network - 1 convolutional layer & 2 Convolutional layers
 
 _NOTE_ Notebook with name ending with `workshop` is for practise whereas solutions are provided in notebooks ending with the name `solution`.
 

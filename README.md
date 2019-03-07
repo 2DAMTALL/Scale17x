@@ -10,6 +10,17 @@ This repository is for Scale17x conference and it contains deep learning starter
 
 _NOTE_ Notebook with name ending with `workshop` is for practise whereas solutions are provided in notebooks ending with the name `solution`.
 
+## Goal
+
+Create a deep learning model to classify hand-written MNIST dataset.
+
+* A large database of handwritten digits (0 to 9). 
+* The database contains 60,000 training images & 10,000 testing images. 
+* Each image is of size 28x28. 
+
+![](docs/sample.png)
+
+
 ## Reference materials
 
 1. [CNN for beginners](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
